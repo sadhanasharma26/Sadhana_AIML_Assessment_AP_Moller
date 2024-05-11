@@ -6,10 +6,6 @@ This project focuses on forecasting sourcing costs using historical data on prod
 ## Dataset:
 The dataset includes information on ProductType, Manufacturer, Area Code, Sourcing Channel, Product Size, Product Type, Month of Sourcing, and Sourcing Cost. The dataset is split into training and test sets for model evaluation.
 
-## Files:
-* Training_Dataset.csv: Contains the training data for model development.
-* Test_Dataset.csv: Contains the test data for model evaluation.
-
 ## Approach:
 * Data Preprocessing: Check for missing values, visualize data distributions, and handle outliers.
 * Modeling:
