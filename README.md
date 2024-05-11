@@ -1,4 +1,4 @@
-# Time Series Forecast
+# Forecasting Sourcing Costs - Data Analysis and Modeling
 
 ## Description:
 This project focuses on forecasting sourcing costs using historical data on product types, manufacturers, area codes, sourcing channels, product sizes, and sourcing costs. The task involves data preprocessing, exploratory data analysis, outlier detection, and modeling using ARIMA and LSTM models.
