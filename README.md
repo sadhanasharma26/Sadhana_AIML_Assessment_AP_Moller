@@ -11,7 +11,7 @@ The dataset includes information on ProductType, Manufacturer, Area Code, Sourci
 * Modeling:
   * ARIMA Model: Implement an ARIMA model for time series forecasting.
   * LSTM Model: Develop an LSTM model for sequence prediction.
-* Evaluation: Calculate Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE) to evaluate model performance.
+* Evaluation: Calculate Mean Absolute Error (MAE) & Mean Squared Error (MSE) to evaluate model performance.
 
 # Authors
 * [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
