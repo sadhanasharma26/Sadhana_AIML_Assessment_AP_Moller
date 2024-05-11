@@ -12,8 +12,8 @@ The dataset includes information on ProductType, Manufacturer, Area Code, Sourci
 
 ## Approach:
 * Data Preprocessing: Check for missing values, visualize data distributions, and handle outliers.
-Modeling:
-* ARIMA Model: Implement an ARIMA model for time series forecasting.
-* LSTM Model: Develop an LSTM model for sequence prediction.
+* Modeling:
+  * ARIMA Model: Implement an ARIMA model for time series forecasting.
+  * LSTM Model: Develop an LSTM model for sequence prediction.
 * Evaluation: Calculate Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE) to evaluate model performance.
 
